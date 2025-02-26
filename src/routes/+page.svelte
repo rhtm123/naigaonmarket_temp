@@ -76,7 +76,7 @@
       </h1>
 
       <p class="text-xl text-gray-300 mb-12 max-w-2xl mx-auto animate-fade-in-delay">
-        Khilona Buddy is coming soon! Stay tuned for an exciting shopping experience.
+        Naigaon Market is coming soon! Stay tuned for an exciting shopping experience.
       </p>
 
       <!-- Countdown Timer -->
