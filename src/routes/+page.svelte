@@ -120,7 +120,7 @@
       </div> -->
 
       <!-- Social Links -->
-      <div class="mt-12 flex justify-center gap-6 animate-fade-in-up">
+      <!-- <div class="mt-12 flex justify-center gap-6 animate-fade-in-up">
         {#each ['facebook', 'twitter', 'instagram', 'youtube'] as social}
           <a
             href="#{social}"
@@ -129,7 +129,7 @@
             <i class="fab fa-{social} text-2xl"></i>
           </a>
         {/each}
-      </div>
+      </div> -->
     </div>
   </div>
 </div>
